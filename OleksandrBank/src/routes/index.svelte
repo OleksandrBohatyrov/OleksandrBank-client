@@ -44,7 +44,7 @@
 
 <figure>
 	<img alt="Success Kid" src="{successkid}">
-	<figcaption>Testing</figcaption>
+	<figcaption>Testing 2</figcaption>
 </figure>
 
 <p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
